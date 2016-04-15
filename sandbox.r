@@ -1,4 +1,5 @@
-
+#@Author: Sameer Darekar
+#@Title: R code for generating visuals
 #http://stat405.had.co.nz/ggmap.pdf
 df<-read.csv('C:\\Users\\samee\\Desktop\\CSCI 565 DM\\DM Project\\train.csv',header=TRUE, sep=',')
 # dfTest<-read.csv('C:\\Users\\samee\\Desktop\\CSCI 565 DM\\DM Project\\test.csv',header=TRUE, sep=',')
